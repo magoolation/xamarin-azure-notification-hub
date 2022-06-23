@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162790640445",
+    "project_id": "poc-notification-hub-csu",
+    "storage_bucket": "poc-notification-hub-csu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162790640445:android:a7a46e52143bd4fb015354",
+        "android_client_info": {
+          "package_name": "br.com.microsoft.csu.poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162790640445-demjc89q8h80jdmvaa1mudagslv3vssq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ2eKL8q-vegtOa2ECiMEV_sGQTliFeVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162790640445-demjc89q8h80jdmvaa1mudagslv3vssq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
